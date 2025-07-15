@@ -1,0 +1,6 @@
+{
+  "name": "Conference Center",
+  "address": "123 Main St, San Francisco, CA",
+  "capacity": 70000,
+  "booking_status": "available"
+}
